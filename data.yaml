@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/KLTN_SGU_Fruit_Single_Balance/train
+val: /content/KLTN_SGU_Fruit_Single_Balance/val
+test: /content/KLTN_SGU_Fruit_Single_Balance/test
 
 nc: 2
 names: ['Fruit', 'fruit']
